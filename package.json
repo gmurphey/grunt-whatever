@@ -1,0 +1,17 @@
+{
+  "name": "grunt-whatever",
+  "version": "0.0.0",
+  "description": "grunt-whatever ==============",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gmurphey/grunt-whatever.git"
+  },
+  "author": "Garrett Murphey",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "8422ebc099976d0e20e68554fdb1df880e990bb5"
+}
