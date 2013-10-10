@@ -13,5 +13,10 @@
   "author": "Garrett Murphey",
   "license": "BSD",
   "readmeFilename": "README.md",
-  "gitHead": "8422ebc099976d0e20e68554fdb1df880e990bb5"
+  "gitHead": "8422ebc099976d0e20e68554fdb1df880e990bb5",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-simple-mocha": "~0.4.0",
+    "grunt-contrib-jshint": "~0.6.4"
+  }
 }
